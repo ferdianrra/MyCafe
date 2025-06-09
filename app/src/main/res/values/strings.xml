@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyCafe</string>
+    <string name="error_response">An error has occurred. Please try again.</string>
+    <string name="try_again">Try Again</string>
+    <string name="searching_content_description">Find the menu</string>
+    <string name="home">Home</string>
+    <string name="cart">Cart</string>
+    <string name="history">History</string>
+    <string name="add_to_cart">Add to Cart: Rp %,.2f</string>
+    <string name="make_a_payment">Make a payment: Rp %,.2f</string>
+    <string name="prices"> Rp %,.2f</string>
+</resources>
